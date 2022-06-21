@@ -25,7 +25,7 @@ int	its_sorted(t_my_list **stack)
 	t_my_list	*aux;
 
 	aux = lstfirst(*stack);
-	while (aux)
+	while (aux->next)
 	{
 		if (aux->content > aux->next->content)
 			return (1);
