@@ -24,8 +24,8 @@ Sort numbers using two stacks also using some own-made instructions:
 |:----------:|:-----------:|:-----------:|:--------:|
 |```3```|```Insertion sort```| sort based on all the possible cases. | ```1``` |
 |```5```|```Insertion sort```| sort based on all the possible cases. | ```7-10``` |
-|```100```|```Based on length```| numbers are sorted based on length | ```1084``` |
-|```500```|```Radix```| sort non-negaitves numbers first based on radix an later negatives (if needed). | ```6784``` |
+|```100```|```Radix```| sort non-negaitves numbers based on radix | ```1084``` |
+|```500```|```Radix```| sort non-negaitves numbers based on radix | ```6784``` |
 
 ## Useful links
 
